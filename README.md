@@ -1,2 +1,7 @@
 # MSciProject
 Code used in the implementation of several recommender systems in part fulfilment of an MSci Individual Project at University of Glasgow.
+
+
+FinalModelEvaluation contains model_eval.py, where all the important things are. This file contains the formatting of the dataset and subsequent implementation of the four recommender systems, XGBoost model training and ranking, and some evaluation measures. The file pytrec.py is separate because it necessitated the use of Python3, and exists to return NDCG and MAP scores (although MAP is also implemented in model_eval.py).
+
+InitalPOCsystem is just a classifier-based recommender system developed in first semester for the project proposal, to demonstrate the dataset was usable among other things.
