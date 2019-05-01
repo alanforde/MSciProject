@@ -7,4 +7,4 @@ FinalModelEvaluation contains model_eval.py, where all the important things are.
 InitalPOCsystem is just a classifier-based recommender system developed in first semester for the project proposal, to demonstrate the dataset was usable among other things.
 
 
-Aside: Obviously these were written in Python notebooks, as such, each repository contains a .ipynb version of each file such that the documents can be reopened in a notebook and retain their cell structure. The .py files exist only so the code can be browsed on GH -- they will not run as regular Python programmes because they are not structured as so.
+Aside: Obviously these were written in Python notebooks, as such, each repository contains a .ipynb version of each file such that the documents can be reopened in a notebook and retain their cell structure. The .py files exist only so the code can be viewed more easily on github -- they will not run as regular Python programmes because they are not structured as so.
